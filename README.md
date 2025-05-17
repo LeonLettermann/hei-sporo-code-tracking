@@ -27,3 +27,5 @@ hei-sporo-code-tracking/
 ├── TractionForce/
 │   ├── AnalyzeTFSF.py                # Core code for two-sided traction force analysis
 │   └── AnalysisPipeline.ipynb        # Example notebook for running traction force analysis
+└── environment.yml                   # Conda environment file for image analysis
+                                      # ⚠️ JAX version might need to be adapted to your system
