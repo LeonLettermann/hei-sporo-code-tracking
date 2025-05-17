@@ -2,7 +2,7 @@
 
 **Code for image analysis to track *Plasmodium* sporozoites in 3D gel assays imaged by spinning disc microscopy.**
 
-This repository is part of the [hei-data-code](https://github.com/LeonLettermann/hei-data-code) project and provides Python/JAX tools for analyzing sporozoite movement and calculating traction forces. It is associated with an upcoming scientific publication.
+This repository is part of the [hei-sporo-code](https://github.com/LeonLettermann/hei-sporo-code) project and provides Python/JAX tools for analyzing sporozoite movement and calculating traction forces. It is associated with an upcoming scientific publication.
 
 📦 **Test data** is available at the [associated dataset repository](https://doi.org/10.11588/DATA/4YBYXE).
 
