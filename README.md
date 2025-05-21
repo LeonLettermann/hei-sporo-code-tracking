@@ -4,7 +4,7 @@
 
 This repository is part of the [hei-sporo-code](https://github.com/LeonLettermann/hei-sporo-code) project and provides Python/JAX tools for analyzing sporozoite movement and calculating traction forces. It is associated with an upcoming scientific publication.
 
-📦 **Test data** is available at the [associated dataset repository](https://doi.org/10.11588/DATA/4YBYXE).
+📦 **Test data** is available at the [associated dataset repository](https://doi.org/10.11588/DATA/4YBYXE) (will be opened upon publication).
 
 ---
 
